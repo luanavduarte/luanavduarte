@@ -1,14 +1,7 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=luanavduarte&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
+### Olá, meu nome é {luana}!
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=LUANAVDUARTE&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-
-
-
-- 🔭Atualmente estudo no Senac Recife
-- Estou no primeiro ano do ensino médio
-- estou cursando ensino técnico de Desenvolvimento de sistemas
-- tenho 15
-- 📫 Como entrar em contato comigo:… pelo instagram ou whatsapp
-- 💬 Pergunte-me sobre f1, séries, músicas, lana del rey
-
+<p>spu estudante do senac <br/> Eu sou desenvolvedor backend</p>
