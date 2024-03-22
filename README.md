@@ -11,4 +11,4 @@
 - tenho 15
 - 📫 Como entrar em contato comigo:… pelo instagram ou whatsapp
 - 💬 Pergunte-me sobre f1, séries, músicas, lana del rey
--->
+
